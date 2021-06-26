@@ -43,7 +43,7 @@ September 2019 — January 2020
 
 ### Banks Soft Systems LLC
 
-[www.bssys.com](www.bssys.com/)
+[https://bssys.com](https://bssys.com/)
 
 April 2018 — May 2019
 
@@ -52,7 +52,7 @@ April 2018 — May 2019
 
 ### LeadGroup LLC
 
-[https://www.leadgroup.cc](https://www.leadgroup.cc/)
+[https://leadgroup.cc](https://leadgroup.cc/)
 
 November 2016 — December 2017
 
