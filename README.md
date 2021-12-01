@@ -19,9 +19,9 @@ And several small ones that aren't worth mentioning
 
 ## Articles
 
-- [Расчет сроков и стоимости проектов: как это делается и можно ли упростить процесс?](https://habr.com/en/post/351086/) | *Project time and cost estimation: how it's done and how to make it simpler)*
+- [Расчет сроков и стоимости проектов: как это делается и можно ли упростить процесс?](https://habr.com/en/post/351086/) | *Project time and cost estimation: how it's done and how to make it simpler*
 - [Архитектура веб-интерфейсов: деревянное прошлое, странное настоящее и светлое будущее](https://habr.com/en/post/456794/) | *Architecture of web-interfaces: wooden past, strange present, bright future*
-- [Old Skull — фронтенд-фреймворк из альтернативной вселенной](https://habr.com/en/post/583354/) *Old Skull - front-end framework from alternative universe*
+- [Old Skull — фронтенд-фреймворк из альтернативной вселенной](https://habr.com/en/post/583354/) | *Old Skull - front-end framework from alternative universe*
 
 ## Talks
 
