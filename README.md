@@ -1,19 +1,19 @@
 ## Skills
 
-**Front-end:** JavaScript, TypeScript, React, Redux, Backbone, Marionette
+**Front-end:** JavaScript, TypeScript, React, Redux, Apollo Client, Backbone, Marionette
 
 **Back-end:** Go, Echo, Node.js, Express.js, Feathers.js, PostgreSQL
 
 **System administration:** Linux (Debian family), ProxMox, Ansible
 
-Currently learning C and GTK
+Currently learning C, C++ and GTK
 
 ## Personal projects
 
-- [TimeTimeTime](https://timetimeti.me/) - SaaS for project cost/time estimation (JavaScript, React, Feathers.js, PostgreSQL)
-- [Harbored](http://harbo.red/) - Presentation software that allows to access slides from mobile devices (Go, Fyne, Echo)
-- [SWVT](http://swvt.net/) - Virtual tabletop for playing old-school roleplaying games (TypeScript, Old Skull, Feathers.js)
 - [Old Skull Framework](https://github.com/alexeyoganezov/oldskull) - Front-end framework powered by TS, OOP and MVC/MVP 
+- [TimeTimeTime](https://timetimeti.me/) - SaaS for project cost/time estimation (JavaScript, React, Feathers.js, PostgreSQL)
+- [Harbored](https://github.com/alexeyoganezov/harbored) - Presentation software that allows to access slides from mobile devices (Go, Fyne, Echo)
+- [SWVT](https://github.com/alexeyoganezov/swvt) - Virtual tabletop for playing old-school roleplaying games (TypeScript, Old Skull, Feathers.js)
 
 And several small ones that aren't worth mentioning
 
@@ -28,6 +28,16 @@ And several small ones that aren't worth mentioning
 - [Снова о Redux: глубокая препарация и создание своего франкенштейна](https://youtu.be/jRSA9B6OhHw) | *Redux once again: in-depth preparation and creation of our own Frankenstein*
 
 ## Work experience
+
+### Petfolk LLC
+
+[https://petfolk.com/](https://petfolk.com/)
+
+Position: Front-end Developer
+
+December 2021 — July 2022
+
+- Participated in development of inner medical system
 
 ### JetRuby LLC
 
