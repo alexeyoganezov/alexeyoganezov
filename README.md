@@ -37,7 +37,8 @@ Position: Front-end Developer
 
 December 2021 — July 2022
 
-- Participated in development of inner medical system
+- Development of client application for appointment booking
+- Development of inner application for keeping track of customers, pets, visits, exam results, etc.
 
 ### JetRuby LLC
 
