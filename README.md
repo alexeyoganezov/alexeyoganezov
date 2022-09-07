@@ -33,43 +33,63 @@ And several small ones that aren't worth mentioning
 
 [https://petfolk.com/](https://petfolk.com/)
 
+Company: Vet clinics
+
 Position: Front-end Developer
 
 December 2021 — July 2022
 
-- Development of client application for appointment booking
-- Development of inner application for keeping track of customers, pets, visits, exam results, etc.
+Projects: 
+
+- Client app for appointment booking
+- Inner app for keeping track of customers, pets, visits, exam results, treatment plans etc.
+
+Technologies used:
+
+- TypeScript
+- React
+- Apollo Client
 
 ### JetRuby LLC
 
 [https://jetruby.com](https://jetruby.com/)
 
+Company: Software development outsourcing (web apps)
+
 Position: Full-stack Developer
 
 September 2019 — January 2020
 
-- Participated in development of two USA-based startups (first one is startup funding platform, second one is advertisement screen management system)
-- Helped CTO with project and team management, was replacing him when he was unavailable
+Projects:
+
+- Startup funding platform
+- Advertisement screen management system
 
 Technologies used:
 
 - JavaScript
 - React
-- Gatsby
 - Strapi
+- Gatsby
 
 ### Banks Soft Systems LLC
 
 [https://bssys.com](https://bssys.com/)
 
+Company: Development of software solutions for online banking
+
 Position: Front-end Developer
 
 April 2018 — May 2019
 
-- Participated in development of boxed internet-banking application designed for small and medium enterprises
-- Significantly improved application delivery time by integration of screenshot testing system (was responsible for promotion, implementation and documentation of it)
+Projects:
+
+- Boxed internet-banking application for small and medium enterprises
+
+Special achievement: significantly improved application delivery time by integration of screenshot testing system (was responsible for promotion, implementation and documentation of it)
 
 Technologies used:
+
 - JavaScript
 - React
 - Redux
@@ -78,15 +98,24 @@ Technologies used:
 
 [https://leadgroup.cc](https://leadgroup.cc/)
 
+Company: Software development outsourcing (mobile apps)
+
 Position: Full-stack Developer, CTO
 
 November 2016 — December 2017
 
-- Developed admin panels and back-ends for mobile applications
-- Developed software requirement specifications
-- Holded meetings with potential client (pre-sale)
-- Holded interviews with job candidates 
-- Managed projects
+Additional responsibilities:
+
+- Development of software requirement specifications
+- Meetings with potential client (pre-sale)
+- Interviews with job candidates 
+- Project management
+
+Projects:
+
+- Map and catalog of local bars, restraunts and entertainment events
+- Advertisement screen management system
+- Mining farm control and monitoring solution
 
 Special achievement: promoted and implemented a business strategy that made an unprofitable company self-sufficient
 
@@ -102,13 +131,18 @@ Technologies used:
 
 [https://webformula.pro](https://webformula.pro/)
 
+Company: Software development outsourcing (web-sites, web and mobile apps)
+
 Position: Full-stack Developer
 
 May 2014 — May 2016
 
-- Developed front-end for web-sites of well-known russian companies and organizations
-- Developed back-end for several small mobile applications
-- Developed and maintained in-house HelpDesk system that was used for communication, billing and reporting
+Projects:
+
+- Inner HelpDesk system used for communications, billing and reporting
+- An app for keeping track of billboard advertising
+- Personal medical app for keeping track of heartbeat issues
+- Web-sites of well-known russian companies and organizations
 
 Technologies used:
 
